@@ -101,13 +101,45 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| (to be populated by roadmapper) | | Pending |
+| FND-01 | Phase 1 | Pending |
+| FND-02 | Phase 1 | Pending |
+| FND-03 | Phase 1 | Pending |
+| FND-04 | Phase 1 | Pending |
+| FND-05 | Phase 1 | Pending |
+| TBL-01 | Phase 2 | Pending |
+| TBL-02 | Phase 2 | Pending |
+| TBL-03 | Phase 2 | Pending |
+| TBL-04 | Phase 2 | Pending |
+| TBL-05 | Phase 2 | Pending |
+| TBL-06 | Phase 2 | Pending |
+| OVR-01 | Phase 2 | Pending |
+| OVR-02 | Phase 2 | Pending |
+| OVR-03 | Phase 2 | Pending |
+| OVR-04 | Phase 2 | Pending |
+| OVR-05 | Phase 2 | Pending |
+| DSN-01 | Phase 2 | Pending |
+| DSN-02 | Phase 2 | Pending |
+| DSN-03 | Phase 2 | Pending |
+| DSN-04 | Phase 2 | Pending |
+| DSN-05 | Phase 2 | Pending |
+| LIV-01 | Phase 3 | Pending |
+| LIV-02 | Phase 3 | Pending |
+| LIV-03 | Phase 3 | Pending |
+| LIV-04 | Phase 3 | Pending |
+| LIV-05 | Phase 3 | Pending |
+| LIV-06 | Phase 3 | Pending |
+| LVN-01 | Phase 3 | Pending |
+| LVN-02 | Phase 3 | Pending |
+| LVN-03 | Phase 3 | Pending |
+| SPK-01 | Phase 4 | Pending |
+| SPK-02 | Phase 4 | Pending |
+| SPK-03 | Phase 4 | Pending |
 
 **Coverage:**
-- v1 requirements: 31 total
-- Mapped to phases: 0 (pending roadmap)
-- Unmapped: 31 ⚠️
+- v1 requirements: 33 total (FND×5, TBL×6, OVR×5, LIV×6, LVN×3, SPK×3, DSN×5 — header previously stated 31, actual count is 33)
+- Mapped to phases: 33
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-06-04*
-*Last updated: 2026-06-04 after initial definition*
+*Last updated: 2026-06-05 after roadmap creation*
